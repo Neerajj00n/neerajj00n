@@ -13,7 +13,7 @@
 
 *Building resilient systems that don't page you at 3am.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajj00n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajjoon)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its.neerajjoon@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=neerajj00n&style=for-the-badge&color=0A66C2)](https://github.com/neerajj00n)
 
@@ -113,7 +113,7 @@ Reliability is a feature, not an afterthought.
 
 I'm currently open to **DevOps Engineer** and **SRE** roles — especially in fintech, payments, or high-scale infrastructure.
 
-- 💼 [LinkedIn](https://linkedin.com/in/neerajj00n)
+- 💼 [LinkedIn](https://linkedin.com/in/neerajjoon)
 - 📧 [its.neerajjoon@gmail.com](mailto:your@email.com)
 
 ---
