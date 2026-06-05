@@ -74,7 +74,7 @@ currently:
 | Project | Description | Stack |
 |---|---|---|
 | 🏗️ [terraform-aws-eks-GitOps](https://github.com/Neerajj00n/PG-EKS-Gitops) | Production-grade EKS cluster with VPC, IRSA, autoscaling & security hardening | Terraform · AWS · EKS · ArgoCD · observability |
-| 📖 [DEVOPS-101](https://github.com/Neerajj00n/DevOps101) | Full Prometheus + Grafana stack with SLO-based alerting for payment pipelines | Prometheus · Grafana · Helm |
+| 📖 [DEVOPS-101](https://github.com/Neerajj00n/DevOps101) | This is Everything you need to Learn Devops | Linux · AWS · Terraform · K8s · Argocd  |
 | 🚀 [gitops-argocd-demo](#) | GitOps deployment pipeline with ArgoCD, app-of-apps pattern & multi-env overlays | ArgoCD · Kubernetes · Helm |
 | 🔒 [devsecops-pipeline](#) | DevSecOps CI pipeline with Trivy scanning, Checkov IaC analysis & OPA policies | GitHub Actions · Trivy · Checkov |
 | 📖 [sre-runbooks](#) | Production runbooks: incident response, on-call playbooks & postmortem templates | Markdown · SRE practices |
