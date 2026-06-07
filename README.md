@@ -79,44 +79,9 @@ currently:
 | 🔒 [devsecops-pipeline](#) | DevSecOps CI pipeline with Trivy scanning, Checkov IaC analysis & OPA policies | GitHub Actions · Trivy · Checkov |
 | 📖 [sre-runbooks](#) | Production runbooks: incident response, on-call playbooks & postmortem templates | Markdown · SRE practices |
 
-> 🔗 *Replace `#` above with your actual repo links once created*
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajj00n&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajj00n&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=neerajj00n&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9900&currStreakLabel=58a6ff)
-
-</div>
-
----
-
-## 🧠 SRE Philosophy
-
-```
-Reliability is a feature, not an afterthought.
-├── Define SLOs before you write code
-├── Alert on symptoms, not causes
-├── Every incident is a learning opportunity
-└── Automate the toil, focus on the signal
-```
-
----
-
-## 📫 Let's Connect
-
-I'm currently open to **DevOps Engineer** and **SRE** roles — especially in fintech, payments, or high-scale infrastructure.
-
-- 💼 [LinkedIn](https://linkedin.com/in/neerajjoon)
-- 📧 [its.neerajjoon@gmail.com](mailto:your@email.com)
-
----
 
 <div align="center">
 
